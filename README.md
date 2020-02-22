@@ -9,4 +9,4 @@ Creating Binary search tree
 ![](Images/Main.PNG)
 
 # output 
-![](Images/Output)
+![](Images/Output.PNG)
